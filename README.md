@@ -7,6 +7,7 @@ I'm a **Full Stack Developer** with **4+ years of experience**, passionate about
 - 💼 I'm open to new opportunities in **software development**.
 
 ## Skills
+
 - **Java**
 - **J2EE**
 - **Spring Boot**
