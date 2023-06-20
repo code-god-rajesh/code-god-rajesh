@@ -1,6 +1,6 @@
 # Hi there, I'm Rajesh! 👋
 
-I'm a **Full Stack Developer** with **4+ years of experience**, passionate about building **robust and scalable web applications**.
+I'm a **Full Stack Developer** with **4+ years of experience**, passionate about building **secure, robust and scalable web applications**.
 
 - 🌱 I’m currently expanding my knowledge in **Microservice architecture** and **Chrome extensions**.
 - 👀 I’m always eager to explore new technologies and tackle challenging problems.
