@@ -1,4 +1,4 @@
-# Hi there, I'm Rajesh! 👋
+# _Hi there, I'm Rajesh! 👋_
 
 I'm a **Full Stack Developer** with **4+ years of experience**, passionate about building **secure, robust and scalable web applications**.
 
